@@ -5,15 +5,15 @@
  * @version 3.2.5
  * @description Displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible)
  * @website https://github.com/S33TH3
- * @source https://github.com/S33TH3/ShowHiddenChannels-Clean
- * @updateUrl https://github.com/S33TH3/ShowHiddenChannels-Clean/blob/main/ShowHiddenChannels.plugin.js
+ * @source https://github.com/S33TH3/ShowHiddenChannels-Clean/blob/main/ShowHiddenChannels.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/S33TH3/ShowHiddenChannels-Clean/main/ShowHiddenChannels.plugin.js
  */
 
-module.exports = (_ => {
+ module.exports = (_ => {
 	const config = {
 		"info": {
 			"name": "ShowHiddenChannels",
-			"author": "DevilBro",
+			"author": "DevilBro x S33TH",
 			"version": "3.2.5",
 			"description": "Displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible)"
 		}
