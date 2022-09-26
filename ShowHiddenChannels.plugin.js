@@ -1,15 +1,12 @@
 /**
  * @name ShowHiddenChannels
- * @author DevilBro
+ * @author DevilBro x S33TH3
  * @authorId 278543574059057154
  * @version 3.2.5
  * @description Displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible)
- * @invite Jx3TjNS
- * @donate https://www.paypal.me/MircoWittrien
- * @patreon https://www.patreon.com/MircoWittrien
- * @website https://mwittrien.github.io/
- * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ShowHiddenChannels/
- * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Plugins/ShowHiddenChannels/ShowHiddenChannels.plugin.js
+ * @website https://github.com/S33TH3
+ * @source https://github.com/S33TH3/ShowHiddenChannels-Clean
+ * @updateUrl https://github.com/S33TH3/ShowHiddenChannels-Clean/blob/main/ShowHiddenChannels.plugin.js
  */
 
 module.exports = (_ => {
